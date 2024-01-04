@@ -7,7 +7,7 @@ Hai kamu mau melakukan promosi / ingin akun kamu bebas dari spammer / bullying ?
 
 ## Price
 
-Harga saat ini 100k aktif selamanya
+Harga saat ini 100k aktif selamanya, (Harga sewaktu waktu bisa berubah tanpa pemberi tahuan silahkan buruan beli sekarang !!)
 
 ## Features
 
