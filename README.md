@@ -1,21 +1,6 @@
 # TelegramUserbotLifetime
+ 
+ 
+ ![thumbnail_userbot_lifetime](https://github.com/azkadev/products_telegram_userbot_lifetime/assets/82513502/2b5cff82-34f8-42f7-8b44-bf2ff722e269)
 
-
----
-
-### Demo
-
----
-
-### Install Library
-
-```bash
-dart pub add telegram_userbot_lifetime
-```
-
-or flutter
-
-```bash
-dart pub add telegram_userbot_lifetime_flutter
-```
  
