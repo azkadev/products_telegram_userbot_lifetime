@@ -5,6 +5,10 @@
 
 Hai kamu mau melakukan promosi / ingin akun kamu bebas dari spammer / bullying ? yuk pakai produk kami  untuk pembelian kalian bisa tap link pembelian jika anda butuh video tutorial beli silahkan tap image di atas ya 
 
+## Price
+
+Harga saat ini 100k aktif selamanya
+
 ## Features
 
 1. Repeat Message (Multi Clients)
