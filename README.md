@@ -1,26 +1,27 @@
-# TelegramUserbotLifetime
- 
- 
- [![thumbnail_userbot_lifetime](https://github.com/azkadev/products_telegram_userbot_lifetime/assets/82513502/2b5cff82-34f8-42f7-8b44-bf2ff722e269)](https://www.youtube.com/watch?v=pPxHdb5JsB8)
+IyBUZWxlZ3JhbVVzZXJib3RMaWZldGltZQogCiAKIFshW3RodW1ibmFpbF91
+c2VyYm90X2xpZmV0aW1lXShodHRwczovL2dpdGh1Yi5jb20vYXprYWRldi9w
+cm9kdWN0c190ZWxlZ3JhbV91c2VyYm90X2xpZmV0aW1lL2Fzc2V0cy84MjUx
+MzUwMi8yYjVjZmY4Mi0zNGY4LTQyZjctOGI0NC1iZjJmZjcyMmUyNjkpXSho
+dHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXBQeEhkYjVKc0I4KQoK
+SGFpIGthbXUgbWF1IG1lbGFrdWthbiBwcm9tb3NpIC8gaW5naW4gYWt1biBr
+YW11IGJlYmFzIGRhcmkgc3BhbW1lciAvIGJ1bGx5aW5nID8geXVrIHBha2Fp
+IHByb2R1ayBrYW1pICB1bnR1ayBwZW1iZWxpYW4ga2FsaWFuIGJpc2EgdGFw
+IGxpbmsgcGVtYmVsaWFuIGppa2EgYW5kYSBidXR1aCB2aWRlbyB0dXRvcmlh
+bCBiZWxpIHNpbGFoa2FuIHRhcCBpbWFnZSBkaSBhdGFzIHlhIAoKIyMgUHJp
+Y2UKCkhhcmdhIHNhYXQgaW5pIDEwMGsgYWt0aWYgc2VsYW1hbnlhLCAoSGFy
+Z2Egc2V3YWt0dSB3YWt0dSBiaXNhIGJlcnViYWggdGFucGEgcGVtYmVyaSB0
+YWh1YW4gc2lsYWhrYW4gYnVydWFuIGJlbGkgc2VrYXJhbmcgISEpCgojIyBG
+ZWF0dXJlcwoKMS4gUmVwZWF0IE1lc3NhZ2UgKE11bHRpIENsaWVudHMpCjIu
+IEFkZCBNZW1iZXIKMy4gQWZrCjQuIENoYXRib3QgCjUuIEF1dG8gUmVhZAo2
+LiBBdXRvIENsZWFyIENoYXQKNy4gRGFuIGxhaW4gbGFpbgoKIyMgTGluayBQ
+ZW1iZWxpYW4KCjEuIFtBWktBREVWIEJPVCBURUxFR1JBTV0oaHR0cHM6Ly90
+Lm1lL2F6a2FkZXZib3Q/c3RhcnQ9cmVmX3RnX3VzZXJib3RfbGlmZXRpbWVf
+Z2l0aHViX2F6a2FkZXYpCjIuIFtHTFggQ09SUCBCT1QgVEVMRUdSQU1dKGh0
+dHBzOi8vdC5tZS9nbHhjb3JwYm90P3N0YXJ0PXJlZl90Z191c2VyYm90X2xp
+ZmV0aW1lX2dpdGh1Yl9hemthZGV2KQozLiBbWFRYIENPUlAgQk9UIFRFTEVH
+UkFNXShodHRwczovL3QubWUveHR4Y29ycGJvdD9zdGFydD1yZWZfdGdfdXNl
+cmJvdF9saWZldGltZV9naXRodWJfYXprYWRldik=
 
-Hai kamu mau melakukan promosi / ingin akun kamu bebas dari spammer / bullying ? yuk pakai produk kami  untuk pembelian kalian bisa tap link pembelian jika anda butuh video tutorial beli silahkan tap image di atas ya 
-
-## Price
-
-Harga saat ini 100k aktif selamanya, (Harga sewaktu waktu bisa berubah tanpa pemberi tahuan silahkan buruan beli sekarang !!)
-
-## Features
-
-1. Repeat Message (Multi Clients)
-2. Add Member
-3. Afk
-4. Chatbot 
-5. Auto Read
-6. Auto Clear Chat
-7. Dan lain lain
-
-## Link Pembelian
-
-1. [AZKADEV BOT TELEGRAM](https://t.me/azkadevbot?start=ref_tg_userbot_lifetime_github_azkadev)
-2. [GLX CORP BOT TELEGRAM](https://t.me/glxcorpbot?start=ref_tg_userbot_lifetime_github_azkadev)
-3. [XTX CORP BOT TELEGRAM](https://t.me/xtxcorpbot?start=ref_tg_userbot_lifetime_github_azkadev)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
